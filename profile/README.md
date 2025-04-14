@@ -19,5 +19,5 @@ Set in the mysterious **Robin Lake Memorial**, players must unravel shifting rea
 ---
 
 ## 👩‍💻 About the Team
-- 🧰 [Charles Partous](https://charlespartous.com)
-- 🧠 [Meghana Bhange](https://meghanabhange.com)
+- [Charles Partous](https://charlespartous.com)
+- [Meghana Bhange](https://meghanabhange.com)
